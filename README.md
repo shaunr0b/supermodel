@@ -3,6 +3,7 @@ Supermodel provides a utility belt of functions that take an information model a
 <img src="https://raw.githubusercontent.com/env/supermodel/master/doc/logo.png"
 alt="Supermodel" title="Supermodel" align="right" width="30%"/>
 
+Leiningen dependency (Clojars): `[env/supermodel "0.1.0"]`
 
 It was born out of real world Clojure projects needing a concise common denomenator fully express a domain's information model.
  * **Database:** queries, transactions, schema migrations, seed data generation
