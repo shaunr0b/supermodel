@@ -1,4 +1,4 @@
-(defproject env/supermodel "0.1.0"
+(defproject env/supermodel "0.1.1"
   :description "Powertools for extending an information model"
   :url "http://github.com/env/supermodel"
   :license {:name "Eclipse Public License"
