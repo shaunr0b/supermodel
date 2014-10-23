@@ -12,12 +12,12 @@ It was born out of real world Clojure projects needing a concise common denomena
 
 ## Information Model
 A model is expressed using the format:
-```
+```clojure
 {:entity-type {:field {:property :value}}}
 ```
 
 For example, an online store stand
-```
+```clojure
 {:vendor  {:name     {:type :string}
            :ident    {:type :string
                       :unique :value
