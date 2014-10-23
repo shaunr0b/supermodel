@@ -76,7 +76,7 @@
               is-component (assoc :db/isComponent true)
               no-history   (assoc :db/noHistory   true)))))
 
-(defn assert
+(defn insist
   "Generates transaction data asserting an entity."
   [model entity field-map-or-maps]
   (let [datomic-ks (field->datomic-ident-map model entity)
