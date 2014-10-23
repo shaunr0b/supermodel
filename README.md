@@ -1,5 +1,9 @@
 Supermodel provides a utility belt of functions that take an information model and transform it into a variety of formats.
 
+<img src="https://raw.githubusercontent.com/env/supermodel/master/doc/logo.png"
+alt="Supermodel" title="Supermodel" align="right" width="30%"/>
+
+
 It was born out of real world Clojure projects needing a concise common denomenator fully express a domain's information model.
  * **Database:** queries, transactions, schema migrations, seed data generation
  * **Domain Modeling:** validations, type coercions, defaults
